@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaherOMRI
 - 👀 I’m interested in WEB Development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on MERN Stack
+- 💞️ I’m looking to collaborate on MERN and MEVN Stack
 - 📫 How to reach me: 
                 - maher.omri99@gmail.com 
                 - 00216 52 501 810
